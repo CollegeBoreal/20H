@@ -16,12 +16,21 @@
 
 
 
-## Résultat
+## :a: Résultat
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
 |  0   | 3000098957 |[:heavy_check_mark:]| [:heavy_plus_sign:]  |
 |  1   | 300104524  |[:x:]               | [:x:]              |
+
+
+## :x: Aucune réponse de l'étudiant
+
+:time: 2020-03-18
+
+|:hash:| Boréal :id:| VPN                | Azure :dollar:       |
+|------|------------|--------------------|----------------------|
+|  0   | 3000098957 |[:heavy_check_mark:]| [:heavy_plus_sign:]  |
 |  2   | 300104541  |[:x:]               | [:x:]              |
 |  3   | 300105201  |[:heavy_check_mark:]| [:100:]            |
 |  4   | 300106918  |[:x:]               | [:x:]              |
