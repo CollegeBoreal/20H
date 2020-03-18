@@ -1,5 +1,7 @@
 # Accès à distance
 
+# :watch: État au 2020-03-17
+
 ## Légende
 
 | Signe              | Signification          |
@@ -11,10 +13,8 @@
 |--------------------|------------------------|
 | :zero:             | Plus du tout de crédit |
 | :heavy_plus_sign:  | Moins de $50 de crédit |
-| :heavy_minus_sign: | Plus de $50 de crédit |
-| :100:              | Tout le crédit |
-
-
+| :heavy_minus_sign: | Plus de $50 de crédit  |
+| :100:              | Tout le crédit         |
 
 ## :a: Résultat
 
@@ -29,7 +29,6 @@
 
 ## :x: Aucune réponse de l'étudiant
 
-:watch: État au 2020-03-17
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
