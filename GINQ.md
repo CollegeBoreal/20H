@@ -23,7 +23,7 @@
 |  0   | 3000098957 |[:heavy_check_mark:]| [:heavy_plus_sign:]  |
 |  3   | 300105201  |[:heavy_check_mark:]| [:100:]              |
 |  8   | 300110529  |[:x:]               | [:100:]              |
-| 11   | 300112017  |[:heavy_check_mark:]| [:x:]                |
+| 11   | 300112017  |[:heavy_check_mark:]| [:100:]              |
 | 12   | 300112917  |[:heavy_check_mark:]| [:x:]                |
 
 
