@@ -26,7 +26,7 @@
 
 ## :x: Aucune réponse de l'étudiant
 
-:time: 2020-03-18
+:watch: 2020-03-18
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
