@@ -20,13 +20,13 @@
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
-|  0   | 3000098957 |[:heavy_check_mark:]| [:heavy_plus_sign:]  |
-|  3   | 300105201  |[:heavy_check_mark:]| [:100:]              |
-|  7   | 300110500  |[:x:]               | [:x:]                |
-|  8   | 300110529  |[:x:]               | [:100:]              |
-| 11   | 300112017  |[:heavy_check_mark:]| [:100:]              |
-| 12   | 300112917  |[:heavy_check_mark:]| [:x:]                |
-| 13   | 300113775  |[:heavy_check_mark:]| [:zero:]             |
+|  0   | 3000098957 | :heavy_check_mark: | :heavy_plus_sign:  |
+|  3   | 300105201  | :heavy_check_mark: | :100:              |
+|  7   | 300110500  | :x:                | :x:                |
+|  8   | 300110529  | :x:                | :100:              |
+| 11   | 300112017  | :heavy_check_mark: | :100:              |
+| 12   | 300112917  | :heavy_check_mark: | :x:                |
+| 13   | 300113775  | :heavy_check_mark: | :zero:             |
 
 
 ## :x: Aucun signe de l'étudiant
