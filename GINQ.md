@@ -22,16 +22,17 @@
 |------|------------|--------------------|--------------------|
 |  0   | 3000098957 | :heavy_check_mark: | :heavy_plus_sign:  |
 |  1   | 300104524  | :heavy_check_mark: | :heavy_plus_sign:  |
+|  2   | 300104541  | :x:                |  :x:               |
 |  3   | 300105201  | :heavy_check_mark: | :100:              |
 |  4   | 300106918  | :heavy_check_mark: | :100:              |
 |  5   | 300107361  | :heavy_check_mark: | :heavy_minus_sign: |
 |  6   | 300108234  | :heavy_check_mark: | :100:              |
-|  7   | 300110500  | :x:                | :zero:             |
-|  8   | 300110529  | :x:                | :100:              |
+|  7   | 300110500  | :heavy_check_mark: | :zero:             |
+|  8   | 300110529  | :heavy_check_mark: | :100:              |
 |  9   | 300111671  | :heavy_check_mark: | :100:              |
 | 11   | 300112017  | :heavy_check_mark: | :100:              |
-| 12   | 300112917  | :heavy_check_mark: | :x:                |
-| 13   | 300113775  | :heavy_check_mark: | :zero:             |
+| 12   | 300112917  | :heavy_check_mark: | :100:              |
+| 13   | 300113775  | :heavy_check_mark: | :100:              |
 
 
 ## :x: Aucun signe de l'étudiant
@@ -39,5 +40,4 @@
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
-|  2   | 300104541  | :x:                |  :x:                 |
 | 10   | 300111766  | :x:                |  :x:                 |
