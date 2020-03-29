@@ -30,6 +30,7 @@
 |  7   | 300110500  | :heavy_check_mark: | :zero:             |
 |  8   | 300110529  | :heavy_check_mark: | :100:              |
 |  9   | 300111671  | :heavy_check_mark: | :100:              |
+| 10   | 300111766  | :heavy_check_mark: |  :x:               |
 | 11   | 300112017  | :heavy_check_mark: | :100:              |
 | 12   | 300112917  | :heavy_check_mark: | :100:              |
 | 13   | 300113775  | :heavy_check_mark: | :100:              |
@@ -40,4 +41,3 @@
 
 |:hash:| Boréal :id:| VPN                | Azure :dollar:       |
 |------|------------|--------------------|----------------------|
-| 10   | 300111766  | :x:                |  :x:                 |
