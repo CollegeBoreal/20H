@@ -28,7 +28,7 @@
 |  5   | 300107361  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_plus_sign:  |
 |  6   | 300108234  | :heavy_check_mark: | :100:              | :heavy_plus_sign:  |
 |  7   | 300110500  | :heavy_check_mark: | :100:              | :heavy_plus_sign:  |
-|  8   | 300110529  | :heavy_check_mark: | :100:              | :x:  |
+|  8   | 300110529  | :heavy_check_mark: | :100:              | :heavy_plus_sign:  |
 |  9   | 300111671  | :heavy_check_mark: | :100:              | :heavy_plus_sign:  |
 | 10   | 300111766  | :heavy_check_mark: | :100:              | :o: |
 | 11   | 300112017  | :heavy_check_mark: | :100:              | :o: | 
