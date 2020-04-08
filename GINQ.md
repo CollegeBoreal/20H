@@ -31,7 +31,7 @@
 |  8   | 300110529  | :heavy_check_mark: | :100:              | :+1:  |
 |  9   | 300111671  | :heavy_check_mark: | :100:              | :+1:  |
 | 10   | 300111766  | :heavy_check_mark: | :100:              | :+1:  |
-| 11   | 300112017  | :heavy_check_mark: | :100:              | :o: | 
+| 11   | 300112017  | :heavy_check_mark: | :100:              | :+1:  | 
 | 12   | 300112917  | :heavy_check_mark: | :100:              | :+1:  |
 | 13   | 300113775  | :heavy_check_mark: | :100:              | :+1:  |
 
